@@ -1,0 +1,37 @@
+_repo: From-the-Car-Behind_27337
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Flagg, James Montgomery
+    alias: Flagg, J. Montgomery
+    birthdate: 1877
+    deathdate: 1960
+    gutenberg_agent_id: '25940'
+    url: http://www.gutenberg.org/2009/agents/25940
+    wikipedia: http://en.wikipedia.org/wiki/James_Montgomery_Flagg
+covers:
+- cover_type: archival
+  image_path: 27337-h/images/fcover.jpg
+creator:
+  author:
+    agent_name: Ingram, Eleanor M. (Eleanor Marie)
+    alias: Ingram, Eleanor Marie
+    birthdate: 1886
+    deathdate: 1921
+    gutenberg_agent_id: '26005'
+    url: http://www.gutenberg.org/2009/agents/26005
+description: ''
+gutenberg_issued: '2008-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27337'
+  lccn: '12005553'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Automobile racing -- Fiction'
+title: From the Car Behind
+url: http://www.gutenberg.org/ebooks/27337
